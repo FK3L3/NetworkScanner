@@ -34,10 +34,8 @@ Before using this script, make sure you have the following prerequisites install
 ## Getting Started
 
 1. Clone this repository.
-2. Install the required dependencies as outlined in the [Prerequisites](#prerequisites) section.
+2. Install the required dependencies.
 3. Run the script to start scanning your local network.
-
-For detailed usage instructions and customization options, refer to the [Documentation](docs/).
 
 Get started with network monitoring and security analysis today!
 
